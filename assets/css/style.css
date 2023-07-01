@@ -380,7 +380,7 @@ fieldset[disabled] .btn-xl.active {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 20px 10px;
   overflow: hidden;
 }
 
